@@ -3,6 +3,8 @@
   "version": "0.1.0",
   "private": false,
   "main": "build/index.js",
+  "repository": "my-simple-ui-components",
+  "source": "src/index.tsx",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build && tsc",
