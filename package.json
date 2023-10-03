@@ -2,6 +2,7 @@
   "name": "my-simple-ui-components",
   "version": "0.1.0",
   "private": false,
+  "main": "build/index.js",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build && tsc",
